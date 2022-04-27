@@ -3,32 +3,38 @@
     {
       "id": 1,
       "name": "Yoda",
-      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/1_rjqvhq.jpg"
+      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/1_rjqvhq.jpg",
+      "description": "Yoda was a legendary Jedi Master and stronger than most in his connection with the Force. Small in size but wise and powerful, he trained Jedi for over 800 years, playing integral roles in the Clone Wars, the instruction of Luke Skywalker, and unlocking the path to immortality"
     },
     {
       "id": 2,
       "name": "Stormtrooper",
-      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/2_gadumz.jpg"
+      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/2_gadumz.jpg",
+      "description": "A stormtrooper is a fictional soldier in the Star Wars franchise created by George Lucas. Introduced in Star Wars: A New Hope (1977), the stormtroopers are the soldiers shock troops/space marines of the Galactic Empire, under the leadership of Emperor Palpatine and his commanders, most notably Darth Vader and Grand Moff Tarkin, during the original film trilogy (1977–1983)"
     },
     {
       "id": 3,
       "name": "R2-D2 & C-3PO",
-      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/3_yfgqxj.jpg"
+      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/3_yfgqxj.jpg",
+      "description": "C-3PO is a lovable bumbling scold, programmed with every known language and custom. R2-D2 is a mischievous troublemaker who doesn't speak in words but is never hard to understand, designed to interface with computers and keep starships repaired and on course."
     },
     {
       "id": 4,
       "name": "Darth Vader",
-      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/4_aiytos.jpg"
+      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/4_aiytos.jpg",
+      "description": "Darth Vader is a fictional character in the Star Wars franchise. He is a powerful and ruthless dark lord, a Sith Lord, and the leader of the Galactic Empire. He is the son of Anakin Skywalker and Padme Amidala, and is the heir to the Galactic Empire."
     },
     {
       "id": 5,
       "name": "Obi-Wan Kenobi",
-      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/5_x78vqp.jpg"
+      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/5_x78vqp.jpg",
+      "description": "Obi-Wan Kenobi is a fictional character in the Star Wars franchise. He is a young Jedi Knight who trained as a slave in the Clone Wars and later became a Jedi Knight. He is the son of Padmé Amidala and Anakin Skywalker, and is the heir to the Jedi Order."
     },
     {
       "id": 6,
       "name": "Chewbacca",
-      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/6_wn2rhs.jpg"
+      "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/6_wn2rhs.jpg",
+      "description": "Chewbacca is a fictional character in the Star Wars franchise. He is a wookiee and a member of the Rebel Alliance. He is the son of Han Solo and Princess Leia Organa, and is the heir to the Galactic Empire."
     }
   ]
 }
